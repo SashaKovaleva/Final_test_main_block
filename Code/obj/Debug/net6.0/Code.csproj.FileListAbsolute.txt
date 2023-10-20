@@ -1,0 +1,15 @@
+D:\Аналитика\Контрольная работа по вводному блоку\Final_test_main_block\Code\bin\Debug\net6.0\Code.exe
+D:\Аналитика\Контрольная работа по вводному блоку\Final_test_main_block\Code\bin\Debug\net6.0\Code.deps.json
+D:\Аналитика\Контрольная работа по вводному блоку\Final_test_main_block\Code\bin\Debug\net6.0\Code.runtimeconfig.json
+D:\Аналитика\Контрольная работа по вводному блоку\Final_test_main_block\Code\bin\Debug\net6.0\Code.dll
+D:\Аналитика\Контрольная работа по вводному блоку\Final_test_main_block\Code\bin\Debug\net6.0\Code.pdb
+D:\Аналитика\Контрольная работа по вводному блоку\Final_test_main_block\Code\obj\Debug\net6.0\Code.csproj.AssemblyReference.cache
+D:\Аналитика\Контрольная работа по вводному блоку\Final_test_main_block\Code\obj\Debug\net6.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Аналитика\Контрольная работа по вводному блоку\Final_test_main_block\Code\obj\Debug\net6.0\Code.AssemblyInfoInputs.cache
+D:\Аналитика\Контрольная работа по вводному блоку\Final_test_main_block\Code\obj\Debug\net6.0\Code.AssemblyInfo.cs
+D:\Аналитика\Контрольная работа по вводному блоку\Final_test_main_block\Code\obj\Debug\net6.0\Code.csproj.CoreCompileInputs.cache
+D:\Аналитика\Контрольная работа по вводному блоку\Final_test_main_block\Code\obj\Debug\net6.0\Code.dll
+D:\Аналитика\Контрольная работа по вводному блоку\Final_test_main_block\Code\obj\Debug\net6.0\refint\Code.dll
+D:\Аналитика\Контрольная работа по вводному блоку\Final_test_main_block\Code\obj\Debug\net6.0\Code.pdb
+D:\Аналитика\Контрольная работа по вводному блоку\Final_test_main_block\Code\obj\Debug\net6.0\Code.genruntimeconfig.cache
+D:\Аналитика\Контрольная работа по вводному блоку\Final_test_main_block\Code\obj\Debug\net6.0\ref\Code.dll
